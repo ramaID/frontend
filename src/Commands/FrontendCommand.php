@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace RamaID\Frontend\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FrontendCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'frontend';
 
     public $description = 'My command';
 

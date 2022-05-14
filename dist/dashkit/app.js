@@ -1,0 +1,1 @@
+(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[260],{416:()=>{},647:()=>{}},e=>{var n=n=>e(e.s=n);e.O(0,[296],(()=>(n(416),n(647))));e.O()}]);
