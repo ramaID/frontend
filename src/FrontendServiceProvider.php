@@ -2,10 +2,10 @@
 
 namespace RamaID\Frontend;
 
-use Spatie\LaravelPackageTools\Package;
-use Spatie\LaravelPackageTools\PackageServiceProvider;
 use RamaID\Frontend\Commands\FrontendCommand;
 use RamaID\Frontend\Commands\FrontendLinkCommand;
+use Spatie\LaravelPackageTools\Package;
+use Spatie\LaravelPackageTools\PackageServiceProvider;
 
 class FrontendServiceProvider extends PackageServiceProvider
 {
