@@ -3,7 +3,15 @@
     "/manifest.js": "/manifest.js?id=41b4d9e6ac3218431aa0c89e53b0f547",
     "/plugins.css": "/plugins.css?id=3ac887617a3f1193643ac28d359cb936",
     "/plugins-demo.css": "/plugins-demo.css?id=39f1c71dc1fb392cf3a50182783907a0",
-    "/main.css": "/main.css?id=6b6f891605ecc07ef1e0c982e9691061",
-    "/main-demo.css": "/main-demo.css?id=b39dd3d4b393bdcd47a10077d6ff7bf2",
-    "/vendor.js": "/vendor.js?id=cdde66895552db5f81966373926d72cd"
+    "/main.css": "/main.css?id=b72102881c4b2b3c7d752bd7b790c529",
+    "/main-demo.css": "/main-demo.css?id=a30edd20a32f8f406fde473be9bb0b7f",
+    "/vendor.js": "/vendor.js?id=cdde66895552db5f81966373926d72cd",
+    "/img/default-skin.png": "/img/default-skin.png?id=6cad7347bb740f0c1b975159bfe7f180",
+    "/img/default-skin.svg": "/img/default-skin.svg?id=a51c3ed7bd060202f2404eee11a18c91",
+    "/img/ramio-loader-logo.png": "/img/ramio-loader-logo.png?id=25119d3d9727a6b14d3d9021fa2c8867",
+    "/img/ramio-loader-logo.svg": "/img/ramio-loader-logo.svg?id=d191b1d76204c2327e29d73396506fc4",
+    "/img/ramio-logo-light.png": "/img/ramio-logo-light.png?id=b148ac3489d1a55367c63d72dde63319",
+    "/img/ramio-logo-light.svg": "/img/ramio-logo-light.svg?id=d191b1d76204c2327e29d73396506fc4",
+    "/img/ramio-logo.png": "/img/ramio-logo.png?id=f12dd97952031b54b748e31e69c2a1ef",
+    "/img/ramio-logo.svg": "/img/ramio-logo.svg?id=d5fab2ed8a8547f89c4600a7b1c589a2"
 }
