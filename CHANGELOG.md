@@ -2,6 +2,10 @@
 
 All notable changes to `frontend` will be documented in this file.
 
+## v1.0.3 - 2022-05-21
+
+**Full Changelog**: https://github.com/ramaID/frontend/compare/1.0.2...1.0.3
+
 ## 1.0.2 - 2022-05-20
 
 **Full Changelog**: https://github.com/ramaID/frontend/compare/1.0.1...1.0.2
