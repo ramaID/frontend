@@ -16,4 +16,8 @@ let mix = require('laravel-mix')
 //     .sass('resources/ramio/sass/plugins.sass', 'plugins.css')
 //     .copy('resources/ramio/img', 'dist/ramio/img')
 
+mix.setPublicPath('dist/trydo')
+    .js('resources/js/trydo.js', 'app.js')
+    .sass('resources/trydo/scss/main.scss', 'style.css')
+
 mix.extract().version()

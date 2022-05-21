@@ -37,7 +37,7 @@ class FrontendLinkCommand extends Command
     {
         $type = $this->argument('type');
 
-        if ($type === 'ramio') {
+        if ($type === 'ramio' || $type === 'trydo') {
             return $type;
         }
 
