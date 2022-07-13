@@ -28,4 +28,8 @@ mix.setPublicPath('dist/laravolt')
     })
     .copy('resources/laravolt/animated', 'dist/laravolt/img')
 
-mix.extract().version()
+mix.extract()
+    .autoload({
+        jquery: ['$', 'window.jQuery', 'jQuery'],
+    })
+    .version()
