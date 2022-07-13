@@ -2,6 +2,14 @@
 
 All notable changes to `frontend` will be documented in this file.
 
+## 1.0.42 - 2022-07-13
+
+### What's Changed
+
+- fix/vendor jquery undefined by @ramaID in https://github.com/ramaID/frontend/pull/3
+
+**Full Changelog**: https://github.com/ramaID/frontend/compare/1.0.41...1.0.42
+
 ## 1.0.41 - 2022-07-13
 
 **Full Changelog**: https://github.com/ramaID/frontend/compare/1.0.4...1.0.41
