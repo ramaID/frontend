@@ -4,7 +4,8 @@ import autoNumeric from 'autonumeric'
 import Turbolinks from 'turbolinks'
 import Fuse from './components/fuse.min.js'
 
-window.$ = window.jQuery = window.jquery = $
+window.$ = window.jQuery = window.jquery = jQuery = $
+
 window.simplebar = simplebar
 window.autoNumeric = autoNumeric
 window.Fuse = Fuse
