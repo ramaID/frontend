@@ -22,9 +22,10 @@ let mix = require('laravel-mix')
 
 mix.setPublicPath('dist/laravolt')
     .js('resources/js/laravolt.js', 'app.js')
-    .sass('resources/laravolt/sass/app.scss', 'dist/laravolt')
+    .sass('resources/laravolt/app.scss', 'dist/laravolt')
     .options({
         processCssUrls: false,
     })
+    .copy('resources/laravolt/animated', 'dist/laravolt/img')
 
 mix.extract().version()

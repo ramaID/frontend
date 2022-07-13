@@ -10,7 +10,7 @@ window.autoNumeric = autoNumeric
 window.Fuse = Fuse
 window.Turbolinks = Turbolinks
 
-import './../laravolt/semantic/semantic'
+import './../../node_modules/fomantic-ui/dist/semantic'
 import './../js/components/basictable'
 import './../js/components/keymaster'
 import './../js/components/fileuploader'
