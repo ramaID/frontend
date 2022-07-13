@@ -1,3 +1,5 @@
+@import "./../../node_modules/fomantic-ui/dist/semantic.css";
+
 @import "variables";
 
 @import "helpers/allignment";
@@ -34,4 +36,4 @@
 @import "themes/dark";
 @import "themes/light";
 
-@import "./../../../node_modules/simplebar/dist/simplebar.css";
+@import "./../../node_modules/simplebar/dist/simplebar.css";
