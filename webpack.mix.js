@@ -16,8 +16,16 @@ let mix = require('laravel-mix')
 //     .sass('resources/ramio/sass/plugins.sass', 'plugins.css')
 //     .copy('resources/ramio/img', 'dist/ramio/img')
 
-mix.setPublicPath('dist/trydo')
-    .js('resources/js/trydo.js', 'app.js')
-    .sass('resources/trydo/scss/main.scss', 'style.css')
+// mix.setPublicPath('dist/trydo')
+//     .js('resources/js/trydo.js', 'app.js')
+//     .sass('resources/trydo/scss/main.scss', 'style.css')
+
+mix.setPublicPath('dist/laravolt')
+    .js('resources/js/laravolt.js', 'app.js')
+    .sass('resources/laravolt/app.scss', 'dist/laravolt')
+    .options({
+        processCssUrls: false,
+    })
+    .copy('resources/laravolt/animated', 'dist/laravolt/img')
 
 mix.extract().version()
